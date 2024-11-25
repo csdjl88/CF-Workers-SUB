@@ -12,7 +12,8 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-ew0KICAidiI6ICIyIiwNCiAgInBzIjogInNlcnYwMC1cdTZDRTJcdTUxNzAiLA0KICAiYWRkIjogInd3dy52aXNhLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkMzZjNGQ5Zi0zMWM0LTQ1ZjEtOGM2NC0xMDJhNjE0MjAwMWUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogIm5vbmUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImhzZWFyZ28uaHNlbmFzLmV1Lm9yZyIsDQogICJwYXRoIjogIi92bWVzcz9lZD0yMDQ4IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImhzZWFyZ28uaHNlbmFzLmV1Lm9yZyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@cf.090227.xyz:443?encryption=none&security=tls&sni=edgetunnel-2z2.pages.dev&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048#%E5%8A%A0%E5%85%A5%E6%88%91%E7%9A%84%E9%A2%91%E9%81%93t.me%2FCMLiussss%E8%A7%A3%E9%94%81%E6%9B%B4%E5%A4%9A%E4%BC%98%E9%80%89%E8%8A%82%E7%82%B9
+https://sub.xf.free.hr/auto
 `
 
 let urls = [];
